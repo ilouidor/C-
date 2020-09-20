@@ -1,1 +1,1 @@
-# this code contains retailsales projects I did in my C++ course
+# this code contains retailsales and Cardtricks projects I did in my C++ course using Microsoft Visual Studio IDE. 
